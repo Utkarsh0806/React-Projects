@@ -32,15 +32,18 @@
 }
 .form_controller input{
     height: 40px;
-    padding: 0 8px;
+    padding: 0 10px;
 }
 .form_controller label{
     position: absolute;
     top: -12px;
     left: 10px;
     background-color: white;
-    padding: 0 10px;
+    padding: 0 5px;
     font-size: 14px;
+}
+.form_controller textarea{
+    padding: 15px 10px;
 }
 .form_btn{
     display: flex;
